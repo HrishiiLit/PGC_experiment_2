@@ -1,8 +1,5 @@
 # Multithreaded Programming with Pthreads and OpenMP
 
----
-
-
 ## Executive Summary
 
 This repository documents the implementation and performance evaluation of **multithreaded programming with POSIX Threads (Pthreads) and OpenMP**. It examines thread creation, workload distribution, concurrency hazards, synchronization mechanisms, and scalability using a numerical workload of **$1,000,000,000$ iterations ($10^9$)**.
