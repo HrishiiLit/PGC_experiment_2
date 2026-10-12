@@ -1,10 +1,5 @@
 # Multithreaded Programming with Pthreads and OpenMP
 
-[![Course](https://img.shields.io/badge/Course-Parallel%20%26%20GPU%20Computing-blue.svg)](#)
-[![Workload](https://img.shields.io/badge/Workload-10%5E9%20Numerical%20Iterations-orange.svg)](#)
-[![Libraries](https://img.shields.io/badge/Libraries-POSIX%20Threads%20%7C%20OpenMP-green.svg)](#)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)
-
 ---
 
 
