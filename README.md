@@ -7,13 +7,6 @@
 
 ---
 
-## Student Details
-
-- **Name:** Hrishikesh Patil
-- **Roll No.:** 109
-- **USN:** 01FE24BCI043
-
----
 
 ## Executive Summary
 
@@ -284,3 +277,12 @@ The charts compare execution time, speedup, and parallel efficiency for Pthreads
 1. **Scalability:** Multithreading can substantially reduce execution time, but scaling is limited by hardware resources, memory behaviour, and parallel overhead as thread counts increase.
 2. **Synchronization and correctness:** Shared-memory programs must protect conflicting accesses to shared data. Mutexes and critical sections are synchronization mechanisms that can prevent race conditions when used correctly.
 3. **Productivity and control:** OpenMP offers a concise, directive-based approach to loop-level parallelism, while Pthreads provides more explicit control over thread creation and coordination. In these measurements, both approaches deliver comparable performance, so OpenMP can be a practical choice when simplicity and maintainability are priorities.
+
+
+## Student Details
+
+- **Name:** Hrishikesh Patil
+- **Roll No.:** 109
+- **USN:** 01FE24BCI043
+
+---
